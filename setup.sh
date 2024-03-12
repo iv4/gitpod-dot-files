@@ -4,7 +4,7 @@
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 
 # Set the theme as a variable
-OSH_THEME="modern-t"
+OSH_THEME="brunton"
 
 # Check if OSH_THEME exists in .bashrc
 if grep -q -F 'OSH_THEME' ~/.bashrc; then
